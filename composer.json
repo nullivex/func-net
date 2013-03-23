@@ -1,0 +1,27 @@
+{
+	 "name":				"openlss/func-net"
+	,"homepage":			"http://openlss.org"
+	,"description":			"Networking helpers"
+	,"license":				"LGPLv2"
+	,"type":				"library"
+	,"keywords": [
+		 "networking"
+		,"curl"
+		,"http"
+	]
+	,"authors": [
+		 {
+			 "name":		"Bryan Tong"
+			,"email":		"contact@nullivex.com"
+			,"homepage":	"http://bryantong.com"
+		}
+		,{
+			 "name":		"Tony Butler"
+			,"email":		"spudz76@gmail.com"
+			,"homepage":	"http://openlss.org"
+		}
+	]
+	,"require": {
+		"php":	">=5.3.2"
+	}
+}
