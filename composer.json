@@ -2,7 +2,7 @@
 	 "name":				"openlss/func-net"
 	,"homepage":			"http://openlss.org"
 	,"description":			"Networking helpers"
-	,"license":				"LGPLv2"
+	,"license":				"LGPL-3.0+"
 	,"type":				"library"
 	,"keywords": [
 		 "networking"
