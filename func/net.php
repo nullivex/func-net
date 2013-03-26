@@ -17,8 +17,7 @@
  *	You should have received a copy of the 
  *	GNU Lesser General Public License along with OpenLSS.
  *	If not, see <http://www.gnu.org/licenses/>.
-*/
-namespace LSS;
+ */
 
 function net_curl_post($url,$vars=array(),&$ch=null){
 	$ch = curl_init();
