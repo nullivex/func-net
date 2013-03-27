@@ -7,8 +7,6 @@ Usage
 ====
 
 ```php
-ld('/func/net');
-
 //fetch a URL with POST vars
 $content = net_curl_post("http://some.site.net/action.cgi",array('some_var'=>'value'));
 ```
